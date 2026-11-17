@@ -34,8 +34,8 @@
 
 如果在找支持 **原生解锁 AI 平台（Claude / OpenAI / Gemini）、流媒体且晚高峰不掉线** 的主力中转专线，下面是我自己长期自用、跑量化接口和 AI 编程实测最稳的一家：
 
-👉 **[点此进入注册并获取测试订阅（支持原生 AI 解锁与专线中转）](https://hacc.dxwebg.com/register?code=vosZhVKX)**  
-*(注：若上方链接跳转缓慢，可在注册页手动填入内部邀请码：`vosZhVKX`)*
+👉 **[点此进入注册并获取测试订阅（支持原生 AI 解锁与专线中转）](https://hacc.dxwebg.com/register?code=0r6Cwusj)**  
+*(注：若上方链接跳转缓慢，可在注册页手动填入内部邀请码：`0r6Cwusj`)*
 
 **实测推荐理由与避坑建议：**
 * **原生 AI 解锁：** 具备干净的落地 IP，实测挂着跑 Claude Code、Cursor、Trae 高频请求稳定不跳 403 验证码。
